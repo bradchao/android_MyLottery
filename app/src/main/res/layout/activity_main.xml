@@ -8,6 +8,7 @@
         brad:layout_width="match_parent"
         brad:layout_height="wrap_content"
         brad:text="Click Me"
+        brad:onClick="click"
         />
     <TextView
         brad:layout_width="wrap_content"
